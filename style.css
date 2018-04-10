@@ -1,0 +1,39 @@
+body{
+  background:url("http://www.tokkoro.com/picsup/448994-night-sky-high-resolution-wallpapers-widescreen.jpg");
+  
+}
+h1{
+  color:red;
+  font-family:"san-serif";
+  font-size:2em;
+}
+p{
+  color:white;
+  font-family:times-new-roman;
+  font-size:2em;
+  font-style:italic;
+}
+.quotes{
+  background-color:#00CED1;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:20px;
+  padding:20px;
+  height:auto;
+  color:white;
+}
+.quote{
+  font-size:30px;
+  color:white;
+}
+.author{
+  font-size:20px;
+  font-style:italic;
+  font-family:times-new-roman;
+  color:white;
+}
+
